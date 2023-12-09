@@ -1,0 +1,11 @@
+{
+    "status": true,
+    "message": "Successfully fetched all the categories",
+    "data": [
+      {"category_id": "1000", "category": "All"},
+      {"category_id": "1001", "category": "Quran"},
+      {"category_id": "1003", "category": "Programming"},
+      {"category_id": "1005", "category": "Education"}
+    ]
+  }
+  

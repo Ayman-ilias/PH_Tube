@@ -1,0 +1,199 @@
+{
+    "status":true,
+    "message":"successfully fetched all the data from category 1000",
+    "data":[
+       {
+          "category_id":"1001",
+          "thumbnail":"./Arrahamn surah.jpeg",
+          "title":"Surah Ar-Rahman",
+          "authors":[
+             {
+                "profile_picture":"./AlAffasy.jpg",
+                "profile_name":"Alafasy",
+                "verified":""
+             }
+          ],
+          "others":{
+             "views":"100K",
+             "posted_date":"16278"
+          }
+       },
+       {
+          "category_id":"1001",
+          "thumbnail":"./Alkahaf.jpeg",
+          "title":"Surah Al Kahf",
+          "authors":[
+             {
+                "profile_picture":"./omarHisham.jpg",
+                "profile_name":"Omar Hisham",
+                "verified":false
+             }
+          ],
+          "others":{
+             "views":"543K",
+             "posted_date":""
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./PythonBeggi.jpg",
+          "title":"Python for Beginners Full Course",
+          "authors":[
+             {
+                "profile_picture":"./FreeCodeCamp.jpg",
+                "profile_name":"Free Code Camp",
+                "verified":false
+             }
+          ],
+          "others":{
+             "views":"10k",
+             "posted_date":"13885"
+          }
+       },
+       {
+          "category_id":"1001",
+          "thumbnail":"./SurahMuluk.jpeg",
+          "title":"Surah Al-Mulk (The Sovereignty)",
+          "authors":[
+             {
+                "profile_picture":"./MansurAsSAlimi.jpeg",
+                "profile_name":"Sheikh Mansour Al-Salimi",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"5.4K",
+             "posted_date":"1672656000"
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./WebDev.jpeg",
+          "title":"7 Steps to Become a Web Developer",
+          "authors":[
+             {
+                "profile_picture":"./ProgHero.jpg",
+                "profile_name":"Programming Hero",
+                "verified":""
+             }
+          ],
+          "others":{
+             "views":"3.6K",
+             "posted_date":"15147"
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./PhiPhi.jpeg",
+          "title":"CS Fundamentals",
+          "authors":[
+             {
+                "profile_picture":"./Phitron.jpg",
+                "profile_name":"Phitron",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"113K",
+             "posted_date":""
+          }
+       },
+       {
+          "category_id":"1001",
+          "thumbnail":"./RelaxingQuran.jpeg",
+          "title":"2 Hours Of Relaxing Quran",
+          "authors":[
+             {
+                "profile_picture":"./Mossad.jpg",
+                "profile_name":"Abdur Rahman Mossad",
+                "verified":false
+             }
+          ],
+          "others":{
+             "views":"1.1K",
+             "posted_date":"16950"
+          }
+       },
+       {
+          "category_id":"1001",
+          "thumbnail":"./SY.jpeg",
+          "title":"Surah Yaseen",
+          "authors":[
+             {
+                "profile_picture":"./QuranFm.jpg",
+                "profile_name":"Quran FM",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"233K",
+             "posted_date":"16090"
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./Django.jpeg",
+          "title":"Python Django Tutorial for Beginners",
+          "authors":[
+             {
+                "profile_picture":"./MOSH.jpg",
+                "profile_name":"Programming with Mosh",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"4.5K",
+             "posted_date":"14800"
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./Cpp.jpeg",
+          "title":"C++ Tutorial for Beginners - Full Course",
+          "authors":[
+             {
+                "profile_picture":"./FreeCodeCamp.jpg",
+                "profile_name":"Free Code Camp.Org",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"241K",
+             "posted_date":""
+          }
+       },
+       {
+          "category_id":"1003",
+          "thumbnail":"./sql.jpeg",
+          "title":"SQL Tutorial",
+          "authors":[
+             {
+                "profile_picture":"./FreeCodeCamp.jpg",
+                "profile_name":"Free Code Camp.Org",
+                "verified":false
+             }
+          ],
+          "others":{
+             "views":"2.6K",
+             "posted_date":"15400"
+          }
+       },
+       {
+          "category_id":"1001",
+          "thumbnail":"./surahNava.jpeg",
+          "title":"Surah An Naba",
+          "authors":[
+             {
+                "profile_picture":"./AlAffasy.jpg",
+                "profile_name":"Alafasy",
+                "verified":true
+             }
+          ],
+          "others":{
+             "views":"7.6K",
+             "posted_date":"16450"
+          }
+       }
+    ]
+ }
+ 

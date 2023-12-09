@@ -1,0 +1,88 @@
+.butto{
+    background-color: #D3D3D3;
+    color: black;
+    font-weight: 500;
+    border: none;
+    /* margin-right: 50px; */
+}
+.buttn{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    border: none;
+    /* margin-right: 50px; */
+}
+#videoContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+}
+
+    .videoCard {
+        width: calc(25% - 20px);
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+
+    .videoCard img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+    .iicon{
+        padding-left:2px;
+    }
+
+    .noVideoMessage {
+    text-align: center;
+}
+
+.noVideoMessage img {
+    max-width: 100%;
+    height: auto;
+}
+    .authorInfo {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .authorInfo img {
+        width: 30px;
+        height: 30px; 
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .authorInfo p {
+        margin: 0;
+    }
+
+    .verifiedIcon {
+        width: 20px;
+        height: 20px; 
+        margin-left: 5px;
+    }
+
+    @media (max-width: 600px) {
+        .videoCard {
+            width: calc(100% - 20px);
+        }
+    }
+
+    .catagory {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        margin-top: 20px;
+    }
+
+    .catagory button {
+        padding: 10px;
+        cursor: pointer;
+    }
